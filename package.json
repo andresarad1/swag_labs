@@ -1,0 +1,22 @@
+{
+  "name": "reto_swag_labs",
+  "version": "1.0.0",
+  "description": "Prueba tecnica automatizacion swag labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "test:open": "cypress open -b electron --e2e "
+  },
+  "keywords": [
+    "cypress",
+
+    "swag lab",
+    "prueba"
+  ],
+  "author": "Ruben Andres Yepes T",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.0",
+    "typescript": "^5.3.3"
+  }
+}
