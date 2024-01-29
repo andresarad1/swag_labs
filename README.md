@@ -40,7 +40,7 @@ Este proyecto incluye scripts NPM útiles para ayudarle a ejecutar y probar sus 
 
 Despues de correr este comando en la ventana emergente seleccionar swagLabs.cy.ts 
 
-![SwagLab](https://drive.google.com/file/d/16jeI0r27EJQEirQyBTCSRfZf5rLrAR3X/view?usp=sharing)
+[SwagLab](https://drive.google.com/file/d/16jeI0r27EJQEirQyBTCSRfZf5rLrAR3X/view?usp=sharing)
 
 Estos scripts facilitan la administración de sus pruebas de Cypress, su ejecución y generación de manera eficiente.
 
